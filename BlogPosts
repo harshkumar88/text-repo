@@ -1,4 +1,4 @@
-const fullPosts = [
+[
   {
     id: '1',
     slug: 'why-winkr-is-the-best-omegle-alternative-in-2025',
